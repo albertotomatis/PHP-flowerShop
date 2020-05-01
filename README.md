@@ -1,8 +1,8 @@
 # PHP-flowerShop
 
-Applicativo per fioraio 
+<b>Applicativo per fioraio </b>
 
-Realizzato con: 
+<b>Realizzato con: </b>
 <ul>
 <li>PHP</li>
 <li>Composer</li>
