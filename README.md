@@ -16,5 +16,4 @@ E' possibile:
 <li>eliminare</li>
 <li>visualizzare</li>
 </ul>
-<br>
 i fiori legati a un'occorrenza, il prezzo, la quantità
