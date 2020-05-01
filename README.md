@@ -3,11 +3,8 @@
 <b>Applicativo per fioraio </b>
 
 <b>Realizzato con: </b>
-<ul>
-<li>PHP</li>
-<li>Composer</li>
-<li>CakePhp</li>
-</ul>
+<br>
+PHP - Composer - CakePhp
 
 <b>E' possibile:</b>
 <br>
