@@ -8,12 +8,13 @@ Realizzato con:
 <li>Composer</li>
 <li>CakePhp</li>
 </ul>
-
-E' possibile: <br>
+<br>
+E' possibile:
 <ul>
 <li>inserire</li>
 <li>modificare</li>
 <li>eliminare</li>
 <li>visualizzare</li>
 </ul>
+<br>
 i fiori legati a un'occorrenza, il prezzo, la quantità
