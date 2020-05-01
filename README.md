@@ -10,6 +10,10 @@ Realizzato con:
 </ul>
 
 E' possibile: <br>
-inserire - modificare - eliminare - visualizzare
-<br>
+<ul>
+<li>inserire</li>
+<li>modificare</li>
+<li>eliminare</li>
+<li>visualizzare</li>
+</ul>
 i fiori legati a un'occorrenza, il prezzo, la quantità
