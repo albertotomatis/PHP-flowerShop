@@ -9,11 +9,7 @@ Realizzato con:
 <li>CakePhp</li>
 </ul>
 <br>
-E' possibile:
-<ul>
-<li>inserire</li>
-<li>modificare</li>
-<li>eliminare</li>
-<li>visualizzare</li>
-</ul>
+<b>E' possibile:</b>
+<br>
+( inserire - modificare - eliminare - visualizzare )
 i fiori legati a un'occorrenza, il prezzo, la quantità
