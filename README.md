@@ -8,7 +8,7 @@ Realizzato con:
 <li>Composer</li>
 <li>CakePhp</li>
 </ul>
-<br>
+
 <b>E' possibile:</b>
 <br>
 ( inserire - modificare - eliminare - visualizzare )
